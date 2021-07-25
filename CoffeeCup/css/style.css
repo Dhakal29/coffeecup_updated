@@ -1,0 +1,402 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Proza+Libre&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,500;1,700&display=swap');
+
+/************************************* UTILITY CLASSES *****************************/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: visible;
+}
+body{
+    overflow-x: hidden;
+}
+a {
+    text-decoration: none !important;
+    color:#000b2c;
+} 
+ul li{
+    list-style: none !important;
+}
+.font-proza-libre{
+    font-family: 'Proza Libre', sans-serif;
+}
+.italic-title{
+    margin-bottom:3rem;
+    font-family: 'Cormorant Garamond', serif;
+}
+.italic-title h1{
+    color:#000b2c !important;
+    letter-spacing: 8px;
+    font-size:100px ;
+    font-weight: bold;
+}
+.order-btn {
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    border:2px solid #ff4a00;
+    background:#ff4a00;
+    width:250px;
+    height:57px;
+    border-radius:14px;
+    letter-spacing: 4px;
+    text-align: center; 
+    cursor: pointer;
+}
+.homepage-container{
+    max-width:1336px;
+    height:auto;
+    margin:0 auto;
+    width:95%;
+
+}
+.img-logo{
+    width:50px;
+    height:50px;
+    margin-right:1rem;
+}
+.logo{
+    float:right;
+}
+/**************************** Heading Page *****************************/
+.homepage{
+    background-image: url('../img/head_background.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    overflow: hidden;
+    background-position: center center; 
+    height:100vh;
+}
+.navbar, .logo{
+    padding-top:8.87rem;
+}
+.nav-items{
+    float:left;
+}
+.navbar .top-navbar .nav-items .nav-item{
+    display: inline-block;
+    padding-right: 2rem;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: bold;
+    text-transform: capitalize; 
+    font-size: 1.3rem; 
+    letter-spacing:1.2px;
+}
+.navbar .nav-items .nav-item:hover{
+    color:#ff4900 !important;
+    text-decoration: underline;
+    text-decoration-thickness: .2rem;
+    text-underline-offset: .6rem;
+}
+.heading{
+    color:#ffffff;
+    margin:0rem  0 1.5rem 1rem;
+    font-size:24px;
+    font-weight: bold;
+}
+.pg-content{
+    margin-top:7.5rem;
+}
+.quote{
+    color:#ff4b00;
+    font-family: 'Roboto', sans-serif;
+    font-size: 33.28px;
+    font-style:medium;
+    font-weight:lighter;
+}
+.paragraph{
+    width:455px;
+    margin:1.8rem 0 1.8rem 0;
+}
+.paragraph p{
+    font-family: 'Roboto', sans-serif;
+    font-weight:14.6px;
+    font-style:normal;
+    font-weight:lighter;
+    color:#122341;
+}
+/*******************************COFFEE TYPES  *************************/
+.coffee-page{
+    position: relative;
+}
+.coffee{
+    position: absolute;
+    z-index:3;
+    top:15%;
+    left:50%;
+    transform: translate(-45%,2%);
+    shape-outside: circle(50%);
+}  
+.coffee-type{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    font-style: italic;    
+}
+.cold-coffee-type{
+    text-align:right;
+    font-style: italic;
+}
+.coffee-page .homepage-container .row .cold_coffee_paracontainer, .coffee-page .homepage-container .row .cold-coffee-type{
+    top:25%;
+    position:absolute;
+}
+.coffee-page .homepage-container .row .cold-coffee-type{
+    right:12%;
+}
+.drk_coffee_paracontainer{
+    position: relative;
+}
+ .drk_coffee_paracontainer img{
+    width:48.5;
+    height:75vh;   
+    margin-left:1rem;
+    min-width:48.5vw;
+} 
+.cold_coffee_paracontainer_img img{
+    width:56.7vw ;
+    height:75vh;
+    max-width:56.9vw;
+}
+ .hot_coffee_paracontainer{
+    position: relative;
+    width:50%;
+}
+.hot_coffee_paracontainer img{
+    width:50vw;
+    height:75vh;   
+    max-width:50vw;
+ }
+.card-para {
+    font-family: 'Roboto', sans-serif; 
+    color:#ffffff !important;    
+}
+.dark-hot-coffees-para{
+    font-family: 'Roboto', sans-serif; 
+    position:absolute;
+    top:50%;
+    transform:translateY(-50%);
+    text-align:right;
+    right:0;
+    width:430px;
+    height:auto;
+    color:#ffffff;
+
+}
+.cold-coffees-para{
+    font-family: 'Roboto', sans-serif; 
+    text-align: left;
+    width:466px;
+    height:auto;
+    color:#ffffff;
+}
+.middle-one{
+    width:56.9vw;
+}
+.last-one{
+    width:58.2vw;
+}
+/*****************************GIFT VOUCHER PAGE  *********************/
+.gift-voucher-page{
+    border-top:2px solid #122341;
+    border-bottom:2px solid #122341;
+}
+.voucher-border-box{
+    border:13px solid #122341;
+    max-width:1335px;
+    width:90%;
+    margin:1rem auto;
+    height:550px;    
+}
+/* Myriad pro font */
+.myriad-pro-font{
+font-family: 'Roboto', sans-serif; 
+
+}
+.gift-images{
+    position:relative;
+}
+.blue-circle{
+    float:left; 
+    width:351px;
+    height:351px;
+    border-radius:100%;
+    background: #122341;
+    border: 13px solid #ff4a00;
+    flex-direction: column;
+    align-items:center;
+    display:flex;
+    justify-content: center;
+    color:white;
+    margin:6rem 0 0 3rem;
+    z-index:0;
+}
+.blue-circle h1{
+    font-size:100px;
+    }
+.leaf-pic{
+    position:absolute;
+    float:right;
+    z-index: 1;
+    top:70%;
+    right:12%;
+}
+.voucher-desc{
+    color:#122341;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    text-align:center;
+}
+.cup-of-coffee{
+    width:455px;
+    height:81px;
+    justify-content: center;
+    align-items:center;
+    border: 4px solid #df4b0f;
+    background:#f2b59c;
+    letter-spacing: 3px;
+    font-weight: bold;
+    border-radius:14px;
+}
+
+/******************About us  */
+.about-us-page{
+    height:66.73vh;
+    background:#f6f6f4;
+    margin:3.75rem 0 1rem 0;
+    text-align:center;   
+}
+.about-us-page h1{
+    font-weight:bold;
+}
+.about-us-para{
+    padding:0 6.25rem;
+}
+
+
+/************************ Testimonials */
+#blog{
+    margin-top:5rem;
+}
+.testimonials{
+    background:#000b2c;
+    border:33px solid #000b2c;
+    color:white;
+
+}
+.customer{
+    height:50%;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    padding: 0 1.8rem;
+    font-family: 'Cormorant Garamond', serif;
+}
+.customer h1{
+    font-weight:bolder;
+}
+.customer p{
+    font-weight:lighter;
+    font-size:18px;
+}
+/*****************************OPENING DAYS  *****************/
+.opening-days{
+    align-items: center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.days-block{
+    width:840px;
+    height:260px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    background: #233e6a;
+    margin-bottom: 4.75rem;
+    color:white;
+    cursor:pointer;
+    transform:translate(0px,0px);
+    transition:.3s all;
+
+}
+.days-block:hover{
+    box-shadow: 5px 5px 5px 5px #7a7878;
+    transform:translate(-3px,-3px);
+}
+/**********************CITIES  *******************/
+.branches-part{
+    margin-bottom:8rem;
+}
+.cities{
+    background:#233e6a;
+    height:auto;
+    padding-bottom: 2rem;
+    cursor:pointer;
+    transform:translate(0px,0px);
+    transition:.3s all;
+    
+}
+.cities:hover{
+    box-shadow: 5px 5px 5px 5px #7a7878;
+    transform:translate(-3px,-3px);
+}
+.cities img{
+    margin-bottom:1.2rem;
+}
+.city-desc{
+    background:#000b2c;
+    color:white;
+    max-width:325px;
+    width:90%;
+    height:200px;
+    margin:0 auto;
+    text-align:center;
+    padding-top:2.5rem;
+}
+.city-bubble{
+    position: relative;
+    background: #ff4a00;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 245px;
+    height: 58px;
+    right:1rem;
+    border-radius: 10px;
+    padding: 0px;
+    margin-bottom:1.5rem;
+}
+.city-bubble::after{
+    content: '';
+    position: absolute;
+    display: block;
+    width: 5px;
+    z-index: 1;
+    border-style: solid;
+    border-color: #ff4a00 transparent;
+    border-width: 20px 16px 0;
+    bottom: -15px;
+    left: 8%;
+    margin-left: -18px;
+}
+/*****************************Bottom Part  *******************/
+.bottom-part{
+    padding-top:6.875rem;
+    background-image:linear-gradient(to bottom, #122341,  #020e2e);
+    height:50vh;
+    position: relative;
+}
+
+.social-media{
+    color:#ff4c00 !important;
+    position:absolute; 
+    bottom:.5rem; 
+    letter-spacing:2rem;
+}
+.footer-navbar{
+    word-spacing:90px; position:absolute; bottom:0; color:inherit;
+}

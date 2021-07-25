@@ -1,0 +1,1824 @@
+@media (min-width:1441px){
+    html{
+        font-size:63%;
+        width:100%;
+        overflow-x: hidden;
+    }
+}
+@media (min-width:1331px) and (max-width:1440px){
+    html{
+        font-size:62%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .leaf-pic{
+        max-width:33%;
+    }
+}
+@media (min-width:1201px) and (max-width:1330px){
+    html{
+        font-size:61%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .coffee{
+        width:32%;
+    }
+    .cold-coffee-img{
+        width:32%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .dark-hot-coffees-para{
+        width:65%;
+       
+    }
+    .cold-coffees-para{
+        width:65%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.6vw;
+        max-width:59vw;
+    }
+    .voucher-border-box{
+        height:auto;
+    }
+    .blue-circle{
+        width:30rem;
+        height:30rem;
+        margin:3rem 0 3rem 4.8rem;
+     }
+     .blue-circle h1{
+         font-size:7rem;
+     }   
+    .leaf-pic{
+        right:-10%;
+        max-width:33%;
+        top:56%;
+    }  
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:8rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:60px;
+    }
+    .cup-of-coffee h1{
+        font-size:3.5rem;
+        letter-spacing: 1px;
+    }
+    .social-media{
+        letter-spacing:2rem;
+    }
+    .footer-navbar{
+        word-spacing: 2.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:0rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }
+}
+@media (min-width:1139px) and (max-width:1200px){
+    html{
+        font-size:61%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .dark-hot-coffees-para{
+        width:65%;
+       
+    }
+    .cold-coffees-para{
+        width:65%;
+    }
+    .coffee{
+        width:32%;
+    }
+    .cold-coffee-img{
+        width:32%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.6vw;
+        max-width:59vw;
+    }
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+   
+    .blue-circle{
+       width:28rem;
+       height:28rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:7rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:30%;
+        top:56%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:6rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+        padding-right: 5rem;
+        padding-left:4rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:3rem;
+        letter-spacing: 1px;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .social-media{
+        letter-spacing:1.4rem;
+    }
+    .footer-navbar{
+        word-spacing: 1.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:0rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }
+}
+@media (min-width:1074px) and (max-width:1138px){
+    html{
+        font-size:60%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .dark-hot-coffees-para{
+        width:65%;      
+    }
+    .cold-coffees-para{
+        width:65%;
+    }
+    .coffee{
+        width:33%;
+    }
+    .cold-coffee-img{
+        width:33%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.6vw;
+        max-width:59vw;
+    }
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:28rem;
+       height:28rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:30%;
+        top:56%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+        padding-right: 5rem;
+        padding-left:4rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .social-media{
+        letter-spacing:1.3rem;
+    }
+    .footer-navbar{
+        word-spacing: 1.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:0rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }
+}
+
+@media (min-width:992px) and (max-width:1073px){
+    html{
+        font-size:60%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .dark-hot-coffees-para{
+        width:65%;       
+    }
+    .cold-coffees-para{
+        width:65%;
+    }
+    .coffee{
+        width:35%;
+    }
+    .cold-coffee-img{
+        width:35%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.9vw;
+        max-width:59vw;
+    }
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:60%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+        padding-right: 5rem;
+        padding-left:4rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .social-media{
+        letter-spacing:1.2rem;
+    }
+    .footer-navbar{
+        word-spacing: 1.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:0rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }
+} 
+@media (width: 1024px) and (height:1366px){
+    html{
+        font-size:60%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .homepage{
+        height:70vh;
+    }
+    .dark-hot-coffees-para{
+        width:65%;       
+    }
+    .drk_coffee_paracontainer img{
+        height:53vh;
+    }
+    .hot_coffee_paracontainer img{
+        height:53vh;
+    }
+    .cold-coffees-para{
+        width:65%;
+    }
+    .coffee{
+        width:37%;
+        top:20%;
+    }
+    .cold-coffee-img{
+        width:37%;
+        top:20%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.9vw;
+        max-width:59vw;
+        height:53vh;
+    }
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:60%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+        padding-right: 5rem;
+        padding-left:4rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .bottom-part{
+        padding-top:9rem;
+        height:44vh;
+    }
+    .social-media{
+        letter-spacing:1.2rem;
+    }
+    .footer-navbar{
+        word-spacing: 3.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:2rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }
+} 
+
+@media (min-width:768px) and (max-width:991px){
+    html{
+        font-size:57%;
+        width:100%;
+        overflow-x: hidden;       
+    }
+    .logo .heading{
+        color:#6f4e37;
+        font-size:3rem;
+        
+    }
+    .img-logo{
+        background:linear-gradient(to bottom, #6f4e37,#350300);
+        border-radius:100%;
+    }
+    .italic-title h1{
+        letter-spacing:.6rem;
+        font-size:9rem;
+    }
+    .order-btn{
+        width:160px;
+        height:43px;
+        letter-spacing:.3rem;
+    }
+    .coffee{
+        width:32%;
+    }
+    .coffee, .cold-coffee-img{
+        top:23%;
+    }
+    .cold-coffee-img{        
+        width:31%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.9vw;
+        max-width:59vw;
+    }
+    .dark-hot-coffees-para, .cold-coffees-para{
+        width:68%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:60%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+        padding-right: 5rem;
+        padding-left:4rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .days-block{
+        width:80%;
+        letter-spacing:0.3rem;
+        margin-bottom: 4rem;
+        word-spacing: .5rem;
+        height:170px;
+    }
+    .city-bubble h1{
+        font-size:2.3rem;
+    }
+    .city-bubble{
+        width:60%;
+        height:40px;
+    }
+    .city-bubble::after{
+        border-width:20px 18px 0;
+        left:13%;
+        bottom:-11px;
+    }
+    .social-media{
+        letter-spacing:1.2rem;
+    }
+    .footer-navbar{
+        word-spacing: 1.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:0.5rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }  
+}
+@media (width:768px) and (height:1024px){
+    html{
+        font-size:57%;
+        width:100%;
+        overflow-x: hidden;       
+    }
+    .homepage{
+        height:80vh;
+    }
+    .italic-title h1{
+        letter-spacing:.6rem;
+        font-size:9rem;
+    }
+    .order-btn{
+        width:160px;
+        height:43px;
+        letter-spacing:.3rem;
+    }
+    .drk_coffee_paracontainer img{
+        height:50vh;
+    }
+    .cold_coffee_paracontainer_img img{
+        height:50vh;
+    }
+    .hot_coffee_paracontainer img{
+        height:50vh;
+    }
+    .coffee{
+        width:35%;
+    }
+    .coffee, .cold-coffee-img{
+        top:22%;
+    }
+    .cold-coffee-img{        
+        width:33%;
+    }
+    .cold_coffee_paracontainer_img img{
+        width:57.9vw;
+        max-width:59vw;
+    }
+    .dark-hot-coffees-para, .cold-coffees-para{
+        width:68%;
+    }
+    .coffee-page .homepage-container .row .cold-coffee-type {
+        right: 1%;
+    }
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:60%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+        padding-right: 5rem;
+        padding-left:4rem;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .days-block{
+        width:80%;
+        letter-spacing:0.3rem;
+        margin-bottom: 4rem;
+        word-spacing: .5rem;
+        height:170px;
+    }
+    .city-bubble h1{
+        font-size:2.3rem;
+    }
+    .city-bubble{
+        width:60%;
+        height:40px;
+    }
+    .city-bubble::after{
+        border-width:20px 18px 0;
+        left:13%;
+        bottom:-11px;
+    }
+    .social-media{
+        letter-spacing:1.2rem;
+    }
+    .footer-navbar{
+        word-spacing: 1.5rem;
+    }
+    .middle-footer p{
+        margin-bottom:0.5rem;
+    }
+    .bottom-footer h5{
+        margin-top:3rem;
+    }  
+}
+@media (min-width:577px) and (max-width:767px){
+    html{
+        font-size:55%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .italic-title h1{
+        font-size:8rem;
+        letter-spacing:.4rem;
+    }
+    .paragraph{
+        width:100%;
+        text-align:left;
+    }
+    .paragraph p{
+        font-weight: lighter;
+    }
+    .pg-content{
+        margin-top:0;
+        padding-top:18rem;
+    }
+    .pg-content .italic-title h1{
+        text-align:center;
+    }
+    .navbar{
+        position:fixed;
+        background:#122341;
+        z-index: 10;
+        width:100%;
+        left:0;
+        padding-top:0;
+    }
+    .homepage{
+        height:auto;
+        padding-bottom: 8rem;
+    }
+    .homepage .logo{
+       position: absolute;
+       right:1%;
+       top:2%;
+       padding-top:0;
+       z-index: 100;
+    }
+    .navbar-toggler:focus,
+    .navbar-toggler:active,
+    .navbar-toggler-icon:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    .navbar-toggler{
+        font-size:2.25rem;
+        width:100%;
+        text-align:left;
+        height:80px;
+    }
+    .nav-items{
+        float:right;
+        text-align:right;
+    }
+    #hamburger_menu{
+        line-height:4rem;
+        color:white;
+    }
+    .navbar .top-navbar .nav-items .nav-item{
+        font-size:2.5rem;
+        letter-spacing:1.12px;
+    }
+    .navbar .top-navbar .nav-items .nav-item a {
+        color: white;
+    }
+    .quote{
+        font-weight: normal;
+    }
+    .order-btn{
+        width:27%;
+        height:40px;
+        letter-spacing:.2rem;
+    }
+    .order-btn h1{
+        font-size:2.5rem;
+    }
+    .coffee-type .italic-title{
+        text-align:center;
+        margin-bottom:2rem;
+    }
+    .item{
+        display:table;
+    }
+    .coffee-type .italic-title h1 br, .cold-coffee-type .italic-title h1 br{
+        display:none;
+    }
+    .coffee_bg{
+        display:none;
+    }
+    .coffee{
+        top:38%;
+        left:18%;
+        width:30%;
+    }
+    .coffee-type{
+        justify-content:center;
+        align-items:center;
+    }       
+    .drk_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        position:relative;
+    }
+    .shape-playground-1{
+        float: left;
+        width: 42%;
+        height: 250px;
+        margin:0;
+        border-radius: 50%;
+        display: block;
+        shape-outside:circle(45.64% at 137px 114px) content-box;
+    }
+    .shape-playground-2{
+        display: block;
+        float: right;
+        width: 48%;
+        height: 250px;
+        margin:0;
+        shape-outside: circle(49.44% at 236px 155px);
+    }
+    .dark-hot-coffees-para{
+        text-align: justify;
+        padding-right: 2rem;
+        font-size:1.3rem;
+        width: 100%;
+        position:static;
+        transform:translate(0);
+    }
+    .cold-coffee-type{        
+        display:table-header-group;
+        text-align: center;      
+    }
+    .cold-coffee-type .italic-title{
+        margin-bottom:2rem;
+    }    
+    .cold-coffee-img{        
+        top:39%;
+        left:65%;
+        transform:translate(0);
+        width:30%;
+    }
+    .cold_coffee_paracontainer, .hot_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        order:2;
+        width:100%;
+    }
+    .cold_coffee_paracontainer{
+        display:table-footer-group;
+
+    }
+    .cold-coffees-para{
+        font-size: 1.3rem;
+        width: 100%;
+        padding-left: 2rem;      
+        position: static;
+        transform: translate(0);
+        text-align: justify;
+    }    
+    .hot_coffee_paracontainer{
+        width: 100%;
+    } 
+    .coffee-page .homepage-container .row .cold_coffee_paracontainer, .coffee-page .homepage-container .row .cold-coffee-type {
+        position: static;
+    }    
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:60%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+    }
+    .cup-of-coffee{
+        width:60%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .about-us-page{
+        height:auto;
+        margin:2rem 0 1rem 0;
+        padding-bottom:2.5rem;
+    }
+    .about-us-para{
+        padding:0 1.5rem 0 1.5rem;
+        text-align:justify;
+    }
+    #blog{
+        margin-top:2rem;
+    }
+    .testimonials{
+        border:13px solid #000b2c;
+    }
+    .customer{
+        padding:0;
+    }
+    .customer h1{
+        margin-top:2.2rem;
+    }
+    .customer p{
+        font-weight: normal;
+        text-align:justify;    
+    }
+    .opening-days{
+        margin-top:2rem;
+    }
+    .days-block{
+        width:80%;
+        letter-spacing:0.3rem;
+        margin-bottom: 4rem;
+        word-spacing: .5rem;
+        height:150px;
+    }
+    .branches-part{
+        margin-bottom:5rem;
+    }
+    .cities{
+        margin-bottom:2rem;
+    }
+    .city-bubble{
+        max-width:163px;
+        height:36px;
+    }
+    
+    .city-bubble::after {
+        bottom:-15px;
+        left:12%;
+    }
+    .city-desc{
+        height:auto;
+        padding-top:2rem;
+        padding-bottom: 2rem;
+    }
+    .bottom-part{
+        padding-top:1.875rem;
+        padding-bottom: 1rem;
+        height:auto;
+    }
+    .left-footer .heading{
+        text-align: center;
+    }
+    .social-media{
+        letter-spacing:0.8rem;
+        right:1.5rem;
+        bottom:1rem;
+    }
+    .footer-navbar{
+       display:none;
+    }  
+}
+@media(min-width:431px) and (max-width:576px){
+    html{
+        font-size:53%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .italic-title h1{
+        font-size:7.5rem;
+        letter-spacing:.4rem;
+    }
+    .paragraph{
+        width:100%;
+        text-align:left;
+    }
+    .paragraph p{
+        font-weight: normal;
+    }
+    .pg-content{
+        margin-top:0;
+        padding-top:18rem;
+    }
+    .pg-content .italic-title h1{
+        text-align:center;
+    }
+    .navbar{
+        position:fixed;
+        background:#122341;
+        z-index: 10;
+        width:100%;
+        left:0;
+        padding-top:0;
+    }
+    .homepage{
+        height:auto;
+        padding-bottom: 8rem;
+    }
+    .homepage .logo{
+        padding-top:0;
+        position: absolute;
+        right:1%;
+        top:2%;
+        padding-top:0;
+        z-index: 100;
+    }
+    .navbar-toggler:focus,
+    .navbar-toggler:active,
+    .navbar-toggler-icon:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    .navbar-toggler{
+        font-size:2.25rem;
+        width:100%;
+        text-align:left;
+        height:80px;
+    }
+    .nav-items{
+        float:right;
+        text-align:right;
+    }
+    #hamburger_menu{
+        line-height:4rem;
+        color:white;
+    }
+    .navbar .top-navbar .nav-items .nav-item{
+        font-size:2.5rem;
+        letter-spacing:1.12px;
+    }
+    .navbar .top-navbar .nav-items .nav-item a {
+        color: white;
+    }
+    .quote{
+        font-weight: normal;
+    }
+    .order-btn{
+        width:38%;
+        height:40px;
+        letter-spacing:.2rem;
+    }
+    .order-btn h1{
+        font-size:2.5rem;
+    }
+    .coffee-type .italic-title{
+        text-align:center;
+        margin-bottom:2rem;
+    }
+    .item{
+        display:table;
+    }
+    .coffee-type .italic-title h1 br, .cold-coffee-type .italic-title h1 br{
+        display:none;
+    }
+    .coffee_bg{
+        display:none;
+    }
+    .coffee{
+        top:39%;
+        left:19%;
+        width:38%;
+    }
+    .coffee-type{
+        justify-content:center;
+        align-items:center;
+    }       
+    .drk_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        position:relative;
+    }
+    .shape-playground-1{
+        float: left;
+        width: 48%;
+        height: 219px;
+        margin:0;
+        display: block;
+        shape-outside: circle(40.35% at 115px 96px);
+        border-radius: 50%;
+    }
+    .shape-playground-2{
+        display: block;
+        float: right;
+        width: 48%;
+        height: 219px;
+        margin:0;
+        border-radius: 50%;
+        shape-outside: circle(49.44% at 125px 89px);
+    }
+    .dark-hot-coffees-para{
+        text-align: justify;
+        padding-right: 2rem;
+        font-size:1.3rem;
+        width: 100%;
+        position:static;
+        transform:translate(0);
+    }
+    .cold-coffee-type{        
+        display:table-header-group;
+        text-align: center;      
+    }
+    .cold-coffee-type .italic-title{
+        margin-bottom:2rem;
+    }    
+    .cold-coffee-img{        
+        top:39%;
+        left:58%;
+        transform:translate(0);
+        width:40%;
+    }
+    .cold_coffee_paracontainer, .hot_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        order:2;
+        width:100%;
+    }
+    .cold_coffee_paracontainer{
+        display:table-footer-group;
+
+    }
+    .cold-coffees-para{
+        font-size: 1.3rem;
+        width: 100%;
+        padding-left: 2rem;      
+        position: static;
+        transform: translate(0);
+        text-align: justify;
+    }    
+    .hot_coffee_paracontainer{
+        width: 100%;
+    } 
+    .coffee-page .homepage-container .row .cold_coffee_paracontainer, .coffee-page .homepage-container .row .cold-coffee-type {
+        position: static;
+    }       
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:60%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .about-us-page{
+        height:auto;
+        margin:2rem 0 1rem 0;
+        padding-bottom:2.5rem;
+    }
+    .about-us-para{
+        padding:0 1.5rem 0 1.5rem;
+        text-align:justify;
+    }
+    #blog{
+        margin-top:2rem;
+    }
+    .testimonials{
+        border:13px solid #000b2c;
+    }
+    .customer{
+        padding:0;
+    }
+    .customer h1{
+        margin-top:2.2rem;
+    }
+    .customer p{
+        font-weight: normal;
+        text-align:justify;    
+    }
+    .opening-days{
+        margin-top:2rem;
+    }
+    .days-block{
+        width:80%;
+        letter-spacing:0.3rem;
+        margin-bottom: 4rem;
+        word-spacing: .5rem;
+        height:150px;
+    }
+    .branches-part{
+        margin-bottom:5rem;
+    }
+    .cities{
+        margin-bottom:2rem;
+    }
+    .city-bubble{
+        max-width:163px;
+        height:40px;
+    }
+    
+    .city-bubble::after {
+        bottom:-15px;
+        left:12%;
+    }
+    .city-desc{
+        height:auto;
+        padding-top:2rem;
+        padding-bottom: 2rem;
+    }
+    .bottom-part{
+        padding-top:1.875rem;
+        padding-bottom: 1rem;
+        height:auto;
+    }
+    .left-footer .heading{
+        text-align: center;
+    }
+    .social-media{
+        letter-spacing:0.8rem;
+        right:1.5rem;
+        bottom:1rem;
+    }
+    .footer-navbar{
+       display:none;
+    }  
+}
+
+@media(min-width:328px) and (max-width:430px){
+    html{
+        font-size:50%;
+        width:100%;
+        overflow-x: hidden;
+        
+    }
+    .italic-title h1{
+        font-size:7rem;
+        letter-spacing:.3rem;
+    }
+    .paragraph{
+        width:100%;
+        text-align:left;
+    }
+    .paragraph p{
+        font-weight: normal;
+    }
+    .pg-content{
+        margin-top:0;
+        padding-top:18rem;
+    }
+    .pg-content .italic-title h1{
+        text-align:center;
+    }
+    .navbar{
+        position:fixed;
+        background:#122341;
+        z-index: 10;
+        width:100%;
+        left:0;
+        padding-top:0;
+    }
+    .homepage{
+        height:auto;
+        padding-bottom:8rem;
+    }
+    .homepage .logo{
+        padding-top:0;
+        position: absolute;
+        right:1%;
+        top:2%;
+        padding-top:0;
+        z-index: 100;
+    }
+    .navbar-toggler:focus,
+    .navbar-toggler:active,
+    .navbar-toggler-icon:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    .navbar-toggler{
+        font-size:2.25rem;
+        width:100%;
+        text-align:left;
+        height:80px;
+    }
+    .nav-items{
+        float:right;
+        text-align:right;
+    }
+    #hamburger_menu{
+        line-height:4rem;
+        color:white;
+    }
+    .navbar .top-navbar .nav-items .nav-item{
+        font-size:2.5rem;
+        letter-spacing:1.12px;
+    }
+    .navbar .top-navbar .nav-items .nav-item a {
+        color: white;
+    }
+    .quote{
+        font-weight: normal;
+    }
+    .order-btn{
+        width:40%;
+        height:40px;
+        letter-spacing:.2rem;
+    }
+    .order-btn h1{
+        font-size:2.5rem;
+    }
+    .coffee-type .italic-title{
+        text-align:center;
+        margin-bottom:2rem;
+    }
+    .item{
+        display:table;
+    }
+    .coffee-type .italic-title h1 br, .cold-coffee-type .italic-title h1 br{
+        display:none;
+    }
+    .coffee_bg{
+        display:none;
+    }
+    .coffee{
+        top:43%;
+        left:23%;
+        width:45%;
+    }
+    .coffee-type{
+        justify-content:center;
+        align-items:center;
+    }       
+    .drk_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        position:relative;
+    }
+    .shape-playground-1{
+        float: left;
+        width: 53%;
+        height: 218px;
+        margin:0;      
+        display: block;
+        shape-outside: circle(46.1% at 94px 122px) content-box;
+        border-radius: 50%;
+    }
+    .shape-playground-2{
+        display: block;
+        float: right;
+        width: 50%;
+        height: 202px;
+        margin:0;
+        shape-outside:circle(45.14% at 84px 114px) content-box;
+    }
+    .dark-hot-coffees-para{
+        text-align: justify;
+        padding-right: 2rem;
+        font-size:1.3rem;
+        width: 100%;
+        position:static;
+        transform:translate(0);
+    }
+    .cold-coffee-type{        
+        display:table-header-group;
+        text-align: center;      
+    }
+    .cold-coffee-type .italic-title{
+        margin-bottom:2rem;
+    }    
+    .cold-coffee-img{        
+        top:43%;
+        left:52%;
+        transform:translate(0);
+        width:45%;
+    }
+    .cold_coffee_paracontainer, .hot_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        order:2;
+        width:100%;
+    }
+    .cold_coffee_paracontainer{
+        display:table-footer-group;
+
+    }
+    .cold-coffees-para{
+        font-size: 1.3rem;
+        width: 100%;
+        padding-left: 2rem;      
+        position: static;
+        transform: translate(0);
+        text-align: justify;
+    }    
+    .hot_coffee_paracontainer{
+        width: 100%;
+    } 
+    .coffee-page .homepage-container .row .cold_coffee_paracontainer, .coffee-page .homepage-container .row .cold-coffee-type {
+        position: static;
+    }        
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:27%;
+        top:69%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:50px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.5rem;
+        letter-spacing: 1px;
+    }
+    .about-us-page{
+        height:auto;
+        margin:2rem 0 1rem 0;
+        padding-bottom:2.5rem;
+    }
+    .about-us-para{
+        padding:0 1.5rem 0 1.5rem;
+        text-align:justify;
+    }
+    #blog{
+        margin-top:2rem;
+    }
+    .testimonials{
+        border:13px solid #000b2c;
+    }
+    .customer{
+        padding:0;
+    }
+    .customer h1{
+        margin-top:2.2rem;
+    }
+    .customer p{
+        font-weight: normal;
+        text-align:justify;    
+    }
+    .opening-days{
+        margin-top:2rem;
+    }
+    .days-block{
+        width:80%;
+        letter-spacing:0.3rem;
+        margin-bottom: 4rem;
+        word-spacing: .5rem;
+        height:140px;
+    }
+    .branches-part{
+        margin-bottom:5rem;
+    }
+    .cities{
+        margin-bottom:2rem;
+    }
+    .city-bubble{
+        max-width:163px;
+        height:34px;
+    }
+    .city-bubble::after {
+        bottom:-13px;
+        left:11%;
+    }
+    .city-desc{
+        height:auto;
+        padding-top:2rem;
+        padding-bottom: 2rem;
+    }
+    .bottom-part{
+        padding-top:1.875rem;
+        padding-bottom: 1rem;
+        height:auto;
+    }
+    .left-footer .heading{
+        text-align: center;
+    }
+    .social-media{
+        letter-spacing:0.8rem;
+        right:1.5rem;
+        bottom:1rem;
+    }
+    .footer-navbar{
+       display:none;
+    }  
+}
+@media (max-width:327px){
+    html{
+        font-size:45%;
+        width:100%;
+        overflow-x: hidden;
+    }
+    .italic-title h1{
+        font-size:6rem;
+        letter-spacing:.2rem;
+    }
+    .paragraph{
+        width:100%;
+        text-align:left;
+    }
+    .paragraph p{
+        font-weight: normal;
+    }
+    .pg-content{
+        margin-top:0;
+        padding-top:18rem;
+    }
+    .pg-content .italic-title h1{
+        text-align:center;
+    }
+    .navbar{
+        position:fixed;
+        background:#122341;
+        z-index: 10;
+        width:100%;
+        left:0;
+        padding-top:0;
+    }
+    .homepage .logo{
+        padding-top:0;
+        position: absolute;
+        right:1%;
+        top:2%;
+        padding-top:0;
+        z-index: 100;
+    }
+    .navbar-toggler:focus,
+    .navbar-toggler:active,
+    .navbar-toggler-icon:focus {
+        outline: none;
+        box-shadow: none;
+    }
+    .navbar-toggler{
+        font-size:2.25rem;
+        width:100%;
+        text-align:left;
+        height:80px;
+    }
+    .nav-items{
+        float:right;
+        text-align:right;
+    }
+    #hamburger_menu{
+        line-height:4rem;
+        color:white;
+    }
+    .navbar .top-navbar .nav-items .nav-item{
+        font-size:2.5rem;
+        letter-spacing:1.12px;
+    }
+    .navbar .top-navbar .nav-items .nav-item a {
+        color: white;
+    }
+    .homepage{
+        height:auto;
+        padding-bottom:8rem;
+    }
+    .quote{
+        font-weight: normal;
+    }
+    .order-btn{
+        width:40%;
+        height:40px;
+        letter-spacing:.1rem;
+    }
+    .order-btn h1{
+        font-size:2rem;
+    }
+    .coffee-type .italic-title{
+        text-align:center;
+        margin-bottom:2rem;
+    }
+    .item{
+        display:table;
+    }
+    .coffee-type .italic-title h1 br, .cold-coffee-type .italic-title h1 br{
+        display:none;
+    }
+    .coffee_bg{
+        display:none;
+    }
+    .coffee{
+        top:43%;
+        left:23%;
+        width:45%;
+    }
+    .coffee-type{
+        justify-content:center;
+        align-items:center;
+    }       
+    .drk_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        position:relative;
+    }
+    .shape-playground-1{
+        float: left;
+        width: 50%;
+        height: 219px;
+        margin:0;
+        display: block;
+        shape-outside:circle(42.69% at 73px 111px) content-box;
+        border-radius: 50%;
+    }
+    .shape-playground-2{
+        display: block;
+        float: right;
+        width: 50%;
+        height: 200px;
+        margin:0;
+        shape-outside: circle(49.44% at 86px 111px);
+        border-radius: 50%;
+    }
+    .dark-hot-coffees-para{
+        text-align: justify;
+        padding-right: 2rem;
+        font-size:1.3rem;
+        width: 100%;
+        position:static;
+        transform:translate(0);
+    }
+    .cold-coffee-type{        
+        display:table-header-group;
+        text-align: center;      
+    }
+    .cold-coffee-type .italic-title{
+        margin-bottom:2rem;
+    }    
+    .cold-coffee-img{        
+        top:43%;
+        left:52%;
+        transform:translate(0);
+        width:45%;
+    }
+    .cold_coffee_paracontainer, .hot_coffee_paracontainer{
+        background:#122341;
+        height:auto;
+        padding: 2rem 0 2rem 0;
+        margin:2rem 0 2rem 0;
+        order:2;
+        width:100%;
+    }
+    .cold_coffee_paracontainer{
+        display:table-footer-group;
+
+    }
+    .cold-coffees-para{
+        font-size: 1.3rem;
+        width: 100%;
+        padding-left: 2rem;      
+        position: static;
+        transform: translate(0);
+        text-align: justify;
+    }    
+    .hot_coffee_paracontainer{
+        width: 100%;
+    } 
+    .coffee-page .homepage-container .row .cold_coffee_paracontainer, .coffee-page .homepage-container .row .cold-coffee-type {
+        position: static;
+    }    
+    .voucher-border-box{
+        width:95%;
+        padding:1rem;
+        height:auto;
+    }
+    .blue-circle{
+       width:25rem;
+       height:25rem;
+        margin:0 0 2rem 0;
+    }
+    .blue-circle h1{
+        font-size:6rem;
+    }    
+    .leaf-pic{
+        right:0;
+        max-width:25%;
+        top:76%;
+    }
+    .voucher-desc h1{
+        letter-spacing:0.2rem;
+        font-size:4.5rem;
+    }
+    .voucher-desc .italic-title{
+        margin-bottom:1.8rem;
+    }
+    .voucher-desc .paragraph{
+        text-align:center;
+    }
+    .cup-of-coffee{
+        width:70%;
+        height:43px;
+        border: 3px solid #df4b0f;
+    }
+    .cup-of-coffee h1{
+        font-size:2.1rem;
+        letter-spacing: 1px;
+    }
+    .about-us-page{
+        height:auto;
+        margin:2rem 0 1rem 0;
+        padding-bottom:2.5rem;
+    }
+    .about-us-para{
+        padding:0 1.5rem 0 1.5rem;
+        text-align:justify;
+    }
+    #blog{
+        margin-top:2rem;
+    }
+    .testimonials{
+        border:13px solid #000b2c;
+    }
+    .customer{
+        padding:0;
+    }
+    .customer h1{
+        margin-top:2.2rem;
+    }
+    .customer p{
+        font-weight: normal;
+        text-align:justify;    
+    }
+    .opening-days{
+        margin-top:2rem;
+    }
+    .days-block{
+        width:80%;
+        letter-spacing:0.3rem;
+        margin-bottom: 4rem;
+        word-spacing: .5rem;
+        height:125px;
+    }
+    .branches-part{
+        margin-bottom:5rem;
+    }
+    .cities{
+        margin-bottom:2rem;
+    }
+    .city-bubble{
+        max-width:163px;
+        height:34px;
+    }
+    .city-bubble::after {
+        bottom:-13px;
+        left:11%;
+    }
+    .city-desc{
+        height:auto;
+        padding-top:2rem;
+        padding-bottom: 2rem;
+    }
+    .bottom-part{
+        padding-top:1.875rem;
+        padding-bottom: 1rem;
+        height:auto;
+    }
+    .left-footer .heading{
+        text-align: center;
+    }
+    .social-media{
+        letter-spacing:0.5rem;
+        right:1.5rem;
+        bottom:1rem;
+    }
+    .footer-navbar{
+       display:none;
+    }  
+}
+@media(orientation:landscape) and (min-height:100px) and (max-height:800px){
+    .homepage{
+        height:90vmax;
+    }
+    .drk_coffee_paracontainer img{
+        height:50vmax;
+    }
+    .hot_coffee_paracontainer img{
+        height:50vmax;
+    }
+    .cold_coffee_paracontainer_img img{
+        height:54vmax;
+    }
+    .bottom-part{
+        min-height:60vmax;
+    }
+}
+@media(orientation:landscape) and (min-height:801px) and (max-height: 901px){
+    .bottom-part{
+        min-height:60vmax;
+    }
+}
+
