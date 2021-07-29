@@ -90,7 +90,7 @@ html{
     background-repeat:no-repeat;
     overflow: hidden;
     background-position:right; 
-    height:100vh;
+    height:100%;
 }
 .navbar, .logo{
     padding-top:13rem;
@@ -102,7 +102,7 @@ html{
     margin-left:12rem;
     word-spacing: 20rem;
 }
-.navbar .collapse .top-navbar .nav-items .nav-item{
+.navbar-collapse .top-navbar .nav-items .nav-item{
     display: inline-block;    
     padding-right: 6.5rem;
     font-family: 'PT Sans', sans-serif;
@@ -128,14 +128,16 @@ html{
     font-weight: 500;
 }
 .pg-content{
-    margin-top:7.5rem;
-    margin-left:12rem;
+    margin-top:10rem;
+    margin-left:10rem;
+    padding-bottom: 8rem;
+    
 }
 .pg-content .coffee-type h1{
     font-size:20.3rem ;
     font-weight: 500;
     letter-spacing:1px;
-    margin-bottom:4.8rem;
+    margin-bottom:2.8rem;
 }
 .quote{
     color:#ff4b00;
@@ -152,7 +154,7 @@ html{
 }
 .paragraph p{
     font-family: 'Roboto', sans-serif;
-    font-size:1.6rem;
+    font-size:1.8rem;
     letter-spacing:1px;
     line-height:2.4rem;
     font-style:normal;
@@ -168,16 +170,16 @@ html{
 .coffee-page .coffee-type .italic-title h1, .cold-coffee-type .italic-title h1{
     letter-spacing:1px;
     line-height:11rem;
-    font-size:14rem;
+    font-size:12rem;
     font-weight:500;
     margin-bottom:3rem;
 }
 .coffee, .cold-coffee-img{
     position: absolute;
     z-index:3;
-    top:15%;
+    top:50%;
     left:50%;
-    transform: translate(-45%,2%);
+    transform: translate(-45%,-50%);
 }  
 .coffee-type{
     display:flex;
@@ -205,12 +207,12 @@ html{
     position: relative;
 }
 .drk_coffee_paracontainer img{
-    height:75vh;   
+    height:660px;   
     min-width:61.5vw;
 } 
 .cold_coffee_paracontainer_img img{
     width:60.5vw ;
-    height:75vh;
+    height:660px;
     max-width:62.3vw;
 }
  .hot_coffee_paracontainer{
@@ -219,7 +221,7 @@ html{
 }
 .hot_coffee_paracontainer img{
     width:53.5vw;
-    height:75vh;   
+    height:660px;   
     max-width:54vw;
 }
  .dark-hot-coffees-para{
@@ -267,16 +269,16 @@ html{
     height:550px;    
 }
 .gift-images{
-    position:relative;
     display:flex;
     flex-direction: column;
     flex-wrap: nowrap;
     justify-content: space-between;
 }
 .blue-circle{
+    position:relative;
     float:left; 
-    width:351px;
-    height:351px;
+    width:358px;
+    height:358px;
     border-radius:50%;
     background: #122341;
     border: 13px solid #ff4a00;
@@ -295,8 +297,9 @@ html{
 .leaf-pic{
     position:absolute;
     z-index: 1;
-    top:64%;
-    left:42%;    
+    top:50%;
+    left:50%;
+    transform:translate(85%,45%);    
 }
 .voucher-desc{
     color:#122341;
@@ -306,7 +309,8 @@ html{
     justify-content:space-between;
     padding-top:5rem;
     padding-right: 3rem;
-    text-align:center;
+    justify-content: center;
+    text-align: center;
 }
 .voucher-desc .italic-title h1{
     font-size:12rem;
@@ -376,15 +380,11 @@ html{
     color:white;
 }
 .testimonials .row{
-    padding: 30px 0 30px 0;
+    padding: 30px;
+    align-items: center;
 }
 .customer{
-    height:44%;
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-    padding-right:6.88rem;
-    padding-left:3rem;
+    padding:3rem;
     font-family: 'Cormorant Garamond', serif;
 }
 .customer h1{
@@ -394,9 +394,10 @@ html{
 }
 .customer p{
     font-weight:500;
-    font-size:2.8rem;
+    font-size:2rem;
     letter-spacing:1px;
-    line-height:2rem;
+    line-height:1.2;
+
 
 }
 .opening-days{
@@ -432,6 +433,9 @@ html{
 .branches-part .italic-title h1{
     font-style:normal;
 }
+.branches-part .row{
+    justify-content:center;
+}
 .cities{
     background:#233e6a;
     height:auto;
@@ -448,7 +452,6 @@ html{
 }
 .cities img{
     margin-bottom:1.92rem;
-    height:25rem;
 }
 .city-desc{
     background:#000b2c;
@@ -472,7 +475,7 @@ html{
     display:grid;
     font-family: 'Roboto', sans-serif; 
     align-items:center;
-    max-width: 245px;
+    max-width: 240px;
     height: 58px;
     right:2rem;
     border-radius:15px 11px 11px 15px;
