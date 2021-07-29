@@ -887,7 +887,8 @@
     }
     .coffee-type .italic-title{
         text-align:center;
-        margin-bottom:2rem;
+        margin-bottom:0rem;
+        margin-top:1rem;
     }
     .item{
         display:table;
