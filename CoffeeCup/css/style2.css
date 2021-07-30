@@ -181,6 +181,21 @@ html{
     left:50%;
     transform: translate(-45%,-50%);
 }  
+.coffee:hover{
+    animation: rotation .5s linear;
+}
+.cold-coffee-img:hover{
+    animation: rotation .5s  linear;
+
+}
+@keyframes rotation {
+    from {
+      transform:translate(-45%,-50%) rotate(0deg);
+    }
+    to {
+      transform:translate(-45%,-50%) rotate(359deg);
+    }
+  }
 .coffee-type{
     display:flex;
     flex-direction: column;
